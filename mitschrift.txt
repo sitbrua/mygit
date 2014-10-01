@@ -1,0 +1,6 @@
+http://www.etp.physik.uni-muenchen.de/kurs/Computing/sw/node14.html
+
+Di (nachmittags):
+  makefiles: definieren was der reihe nach passieren soll,
+  v.a. fuer c++ files noetig weil sehr lang und sonst unuebersichtlich...
+  nicht so schwierig, nur nciht ganz intuitiv
